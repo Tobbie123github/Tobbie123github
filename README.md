@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NodeJs and MongoDB**
 
-- 👨‍💻 All of my projects are available at [marshallport.netlify.com](marshallport.netlify.com)
-
 - 📫 How to reach me **tobbie41973@gmail.com**
 
 - ⚡ Fun fact **I'm passionate about crafting exceptional web experiences as a Laravel developer.**
